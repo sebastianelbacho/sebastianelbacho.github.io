@@ -704,6 +704,10 @@ button:hover,
         background-color: #1a1a1a;
     }
 
+    .Video_Text {
+        height: auto;
+    }
+
     .center,
     p {
         font-size: 2.2em;
@@ -717,6 +721,10 @@ button:hover,
 @media screen and (max-width: 414px) {
     body {
         background-color: #1a1a1a;
+    }
+
+    .Video_Text {
+        height: auto;
     }
 
     .center,
